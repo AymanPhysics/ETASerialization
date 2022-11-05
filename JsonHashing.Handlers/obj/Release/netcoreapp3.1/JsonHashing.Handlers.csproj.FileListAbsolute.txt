@@ -1,0 +1,9 @@
+D:\OneDrive\Projects\Projects\ETASerialization\JsonHashing.Handlers\bin\Release\netcoreapp3.1\JsonHashing.Handlers.deps.json
+D:\OneDrive\Projects\Projects\ETASerialization\JsonHashing.Handlers\bin\Release\netcoreapp3.1\JsonHashing.Handlers.dll
+D:\OneDrive\Projects\Projects\ETASerialization\JsonHashing.Handlers\bin\Release\netcoreapp3.1\JsonHashing.Handlers.pdb
+D:\OneDrive\Projects\Projects\ETASerialization\JsonHashing.Handlers\obj\Release\netcoreapp3.1\JsonHashing.Handlers.csproj.AssemblyReference.cache
+D:\OneDrive\Projects\Projects\ETASerialization\JsonHashing.Handlers\obj\Release\netcoreapp3.1\JsonHashing.Handlers.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Projects\ETASerialization\JsonHashing.Handlers\obj\Release\netcoreapp3.1\JsonHashing.Handlers.AssemblyInfo.cs
+D:\OneDrive\Projects\Projects\ETASerialization\JsonHashing.Handlers\obj\Release\netcoreapp3.1\JsonHashing.Handlers.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Projects\ETASerialization\JsonHashing.Handlers\obj\Release\netcoreapp3.1\JsonHashing.Handlers.dll
+D:\OneDrive\Projects\Projects\ETASerialization\JsonHashing.Handlers\obj\Release\netcoreapp3.1\JsonHashing.Handlers.pdb

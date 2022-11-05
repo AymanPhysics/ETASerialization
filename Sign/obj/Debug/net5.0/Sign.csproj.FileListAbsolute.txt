@@ -1,0 +1,12 @@
+D:\OneDrive\Projects\Projects\ETASerialization\Sign\bin\Debug\net5.0\Sign.deps.json
+D:\OneDrive\Projects\Projects\ETASerialization\Sign\bin\Debug\net5.0\Sign.dll
+D:\OneDrive\Projects\Projects\ETASerialization\Sign\bin\Debug\net5.0\ref\Sign.dll
+D:\OneDrive\Projects\Projects\ETASerialization\Sign\bin\Debug\net5.0\Sign.pdb
+D:\OneDrive\Projects\Projects\ETASerialization\Sign\obj\Debug\net5.0\Sign.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Projects\Projects\ETASerialization\Sign\obj\Debug\net5.0\Sign.AssemblyInfoInputs.cache
+D:\OneDrive\Projects\Projects\ETASerialization\Sign\obj\Debug\net5.0\Sign.AssemblyInfo.cs
+D:\OneDrive\Projects\Projects\ETASerialization\Sign\obj\Debug\net5.0\Sign.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projects\Projects\ETASerialization\Sign\obj\Debug\net5.0\Sign.dll
+D:\OneDrive\Projects\Projects\ETASerialization\Sign\obj\Debug\net5.0\ref\Sign.dll
+D:\OneDrive\Projects\Projects\ETASerialization\Sign\obj\Debug\net5.0\Sign.pdb
+D:\OneDrive\Projects\Projects\ETASerialization\Sign\obj\Debug\net5.0\Sign.csproj.AssemblyReference.cache
